@@ -486,8 +486,8 @@ class SortingStructures {
 
     public static void main(String[] args) 
             throws Exception {
-        int MIN_SIZE = 100;
-        int MAX_SIZE = 3200;
+        int MIN_SIZE = 10;
+        int MAX_SIZE = 2560;
 
         // Create files of random integers
         for(int s = MIN_SIZE; s <= MAX_SIZE; s = s*2) {
