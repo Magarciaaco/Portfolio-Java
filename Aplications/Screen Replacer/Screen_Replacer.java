@@ -1,7 +1,7 @@
 
 /**
  * UNIVERSITY OF TEXAS AT EL PASO
- * CS1101 â€“ Intro to Computer Science
+ * CS1101 â€“ Computer Science
  * Instructor: Akbar
  * 
  * Screen_Replacer, Modified by: Miguel Angel Garcia Acosta
