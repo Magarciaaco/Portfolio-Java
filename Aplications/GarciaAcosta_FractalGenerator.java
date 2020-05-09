@@ -4,7 +4,7 @@ Recursion
 By including my name below I confirm that:
 -	I am submitting my original work.
 -	If I include code obtained from another source or I received help I am giving attribution to those sources as comments.
--	This submission does not incur in any academic dishonesty practice as described in the course syllabus.
+-	This submission does not incur in any academic dishonesty practice.
 Modified and submitted by: [Miguel Angel Garcia Acosta] 
 */ 
 
