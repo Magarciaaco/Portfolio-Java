@@ -1,6 +1,6 @@
 /* CS1101 â€“ Intro to Computer Science 
 Instructor: Akbar
-Comprehensive Lab 2 - Recursion
+Recursion
 By including my name below I confirm that:
 -	I am submitting my original work.
 -	If I include code obtained from another source or I received help I am giving attribution to those sources as comments.
