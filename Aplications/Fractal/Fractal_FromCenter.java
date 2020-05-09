@@ -6,7 +6,7 @@
  * Fractal_FromCenter, Modified by: Miguel Angel Garcia Acosta
  * If included source code is to be used in another source code, give attribution to the source code as comment.
  * 
- * SOURCE CODE: UTEP's CS1101 Intro to Computer Science Lab Course: Instructor - Akbar, File Name: LastName_FractalGenerator.java
+ * SOURCE CODE: UTEP's CS1101 Intro to Computer Science Lab Course: Instructor - Akbar
  * 
  */
 
