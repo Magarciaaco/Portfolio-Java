@@ -1,4 +1,4 @@
-/* CS1101 â€“ Intro to Computer Science 
+/* CS1101 â€“ Computer Science 
 Instructor: Akbar
 Recursion
 By including my name below I confirm that:
