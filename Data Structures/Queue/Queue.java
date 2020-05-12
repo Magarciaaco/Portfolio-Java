@@ -39,12 +39,12 @@ public class Queue {
     void DeQueue() {
         if(isEmpty()) return;
 
-        int Curr = this.queue[this.Front];
+        int e = this.queue[this.Front];
 
         this.Front = (this.Front + 1)%this.Capacity;
         this.Size -= 1;
 
-        System.out.println("DE_QUEUED: " + Curr);
+        System.out.println("DE_QUEUED: " + e);
     }
 
     int getFront() {
