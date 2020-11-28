@@ -9,7 +9,7 @@ import java.util.Scanner;
  * of search that the user wants to do, and search for a word given by the user in the selected type of search. Finally, it will ask if the user wants to search for another
  * word.
  */
-public class Lab5 {
+public class BST_HT {
     public static String name;
 
     /**
