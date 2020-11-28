@@ -1,6 +1,5 @@
 
 /**
- * CS2 SUMMER 2019: HashTable
  * Miguel Angel Garcia Acosta
  * University of Texas at El Paso
  * 
