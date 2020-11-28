@@ -1,6 +1,5 @@
 
 /**
- * CS2 SUMMER 2019: BinarySearchTree
  * Miguel Angel Garcia Acosta
  * University of Texas at El Paso
  * 
