@@ -1,3 +1,9 @@
+/**
+ * Stack
+ * Coded by: Miguel Angel Garcia Acosta
+ * Contact: MAGA.DevCS@Gmail.com
+ */
+
 package DataStructures;
 
 public class Stack {
