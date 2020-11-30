@@ -1,4 +1,3 @@
-package DataStructure;
 /**
  * LinkedList -- Doubly Linked List
  * Coded by: Miguel Angel Garcia Acosta
