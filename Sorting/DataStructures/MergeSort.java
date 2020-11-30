@@ -1,3 +1,9 @@
+/**
+ * MergeSort
+ * Coded by: Miguel Angel Garcia Acosta
+ * Contact: MAGA.DevCS@Gmail.com
+ */
+
 package DataStructures;
 
 /* Iterative Merge Sort.
