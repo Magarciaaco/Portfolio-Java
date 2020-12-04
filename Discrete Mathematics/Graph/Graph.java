@@ -17,7 +17,7 @@ public class Graph {
             return;
         
         Vertex _Vertex_Manager_ = V; // Use a Manager variable to add a new Vertex
-        while (_Vertex_Manager_._Next_Vertex_ != null) {
+        while (_Vertex_Manager_ != null) {
             _Vertex_Manager_ = _Vertex_Manager_._Next_Vertex_;
             Degree++;
         }
